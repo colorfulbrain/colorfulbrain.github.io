@@ -46,11 +46,7 @@ Email: lby11917@rjh.com.cn | libinyin@126.com
 
 ## 📄 Selected Publications
 
-1. **Li, B.**, et al. *Loss of synaptic density in nucleus basalis...* Eur J Nucl Med Mol Imaging, 2024. [[DOI](https://doi.org/10.1007/s00259-024-06862-z)]  
-2. **Li, B.**, et al. *Tai Chi enhances cognitive training...* Alzheimers Dement, 2023. [[DOI](https://doi.org/10.1002/alz.12658)]  
-3. Wu, J., **Li, B.**, et al. *GFAP and P-Tau181 with presynaptic SV2A loss...* Radiology, 2024. [[DOI](https://doi.org/10.1148/radiol.233019)]  
-4. Wang, J., **Li, B.**, et al. *Tau pathology & synaptic loss...* Mol Psychiatry, 2024. [[DOI](https://doi.org/10.1038/s41380-024-02501-z)]  
-5. For full list: [Google Scholar](#) or [Harvard BandLab Alumni](https://scholar.harvard.edu/bandlab/alumni)
+<iframe src="publications.md" style="width:100%; height:600px; border:none;"></iframe>
 
 ---
 
