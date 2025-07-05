@@ -1,4 +1,5 @@
 # Binyin Li, M.D., Ph.D.
+<img src="2018-6.jpg" alt="My Photo" style="width:200px; border-radius:50%;">
 
 Physician-Scientist | Cognitive Disorders & Neuroimaging  
 Email: lby11917@rjh.com.cn | libinyin@126.com  
