@@ -46,7 +46,7 @@ Email: lby11917@rjh.com.cn | libinyin@126.com
 
 ## 📄 Selected Publications
 
-View my complete publication list [here](publications.md).
+View my complete publication list [here](publication.md).
 
 ---
 
