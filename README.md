@@ -3,7 +3,7 @@
 
 Physician-Scientist | Cognitive Disorders & Neuroimaging  
 Email: lby11917@rjh.com.cn | libinyin@126.com  
-[Harvard BandLab Alumni](https://scholar.harvard.edu/bandlab/alumni)
+[Harvard BandLab Alumni]([https://scholar.harvard.edu/bandlab/alumni](https://bandlab.mgh.harvard.edu/binyin-li-m-d-b-sc/))
 
 ---
 
@@ -11,7 +11,7 @@ Email: lby11917@rjh.com.cn | libinyin@126.com
 
 - Neural circuits in Alzheimer's Disease and Mild Cognitive Impairment
 - Synaptic density imaging (SV2A PET)
-- Machine learning and multimodal MRI
+- Machine learning and multimodal MRI analysis
 - AD biomarker visualization (PET, contrast-enhanced MRI)
 - Cognitive training and non-pharmacological intervention
 
@@ -22,8 +22,8 @@ Email: lby11917@rjh.com.cn | libinyin@126.com
 - **Zhejiang University**  
   B.Sc. in Psychology, 2005.09–2009.06  
   M.D. in Clinical Medicine, 2009.09–2013.06  
-  *Clinical rotation at UCLA (Ronald Reagan & Cedars-Sinai Medical Center, 2012)*  
-  *Research Fellow at Harvard MGH Martinos Center, 2019–2020*
+- **Clinical rotation at UCLA (Ronald Reagan & Cedars-Sinai Medical Center, 2012)**  
+- **Research Fellow at Harvard MGH Martinos Center, 2019–2020** 
 
 ---
 
@@ -53,7 +53,7 @@ View my complete publication list [here](publication.md).
 ## 🧪 Clinical Trials
 
 - PI of trial on cognitive and Tai Chi training in MCI patients  
-  [ClinicalTrials.gov: NCT03119051](https://clinicaltrials.gov/ct2/show/NCT03119051)
+  [ClinicalTrials.gov: NCT03119051,NCT]
 
 ---
 
@@ -70,4 +70,4 @@ View my complete publication list [here](publication.md).
 ## 🌐 Links
 
 - [Harvard BandLab Alumni](https://scholar.harvard.edu/bandlab/alumni)  
-- [ORCID / Google Scholar / ResearchGate] – *available upon request*
+- [ORCID / Google Scholar(https://scholar.google.com/citations?user=aTTE1uYAAAAJ&hl=en)
