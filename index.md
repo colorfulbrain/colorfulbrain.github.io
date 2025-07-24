@@ -7,7 +7,7 @@
 
 ## 👩‍🔬 Principal Investigator
 
-<img src="assets/2018-6.jpg" alt="Binyin Li" style="width:180px; border-radius:50%;">
+<img src="2018-6.jpg" alt="Binyin Li" style="width:180px; border-radius:50%;">
 
 **Binyin Li, M.D., Ph.D.**  
 Attending Neurologist, RuiJin Hospital, SJTU School of Medicine  
