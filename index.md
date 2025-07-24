@@ -31,7 +31,7 @@ Attending Neurologist, RuiJin Hospital, SJTU School of Medicine
 - **Gao C**, *et al.*, *Early changes of fecal short-chain fatty acid levels in mild cognitive impairment*. *CNS Neurosci Ther*, 2023.  
 - **He K**, *et al.*, *[...] more*
 
-[Full publication list →](publications.md)
+[Full publication list →](publication.md)
 
 ---
 
