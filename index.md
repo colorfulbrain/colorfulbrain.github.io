@@ -11,24 +11,21 @@
 
 **Binyin Li, M.D., Ph.D.**  
 Attending Neurologist, RuiJin Hospital, SJTU School of Medicine  
-[Email](mailto:lby11917@rjh.com.cn) | [Google Scholar](https://scholar.google.com/citations?user=aTTE1uYAAAAJ&hl=en) | [Harvard BandLab Alumni](https://bandlab.mgh.harvard.edu/binyin-li-m-d-b-sc/)
+[Email：lby11917@rjh.com.cn] | [Google Scholar](https://scholar.google.com/citations?user=aTTE1uYAAAAJ&hl=en) | [Harvard BandLab Alumni](https://bandlab.mgh.harvard.edu/binyin-li-m-d-b-sc/)
 
 ---
 
 ## Research Interests
-- Neural circuits in Alzheimer's Disease & Mild Cognitive Impairment
-- Synaptic density imaging (SV2A PET)
+- Digital imaging markers in Alzheimer's Disease & Mild Cognitive Impairment
+- Synaptic density imaging
 - Machine learning for multimodal MRI analysis
 - BBB imaging and vascular biomarkers
 - Cognitive training & non-pharmacological interventions
 
-[See full research projects →](research.md)
-
 ---
 
 ## Selected Publications
-- **Chu J**, *et al.*, *Brain tissue electrical conductivity as a promising biomarker for dementia assessment using MRI*. *Alzheimer’s & Dementia*, 2025.  
-- **Gao C**, *et al.*, *Early changes of fecal short-chain fatty acid levels in mild cognitive impairment*. *CNS Neurosci Ther*, 2023.  
+- Xu, X., ... **Li, B**., (2025). *Choroid plexus free-water correlates with glymphatic function in Alzheimer's disease*. Alzheimer's & Dementia, 21(5)
 - **He K**, *et al.*, *[...] more*
 
 [Full publication list →](publication.md)
@@ -42,7 +39,7 @@ Attending Neurologist, RuiJin Hospital, SJTU School of Medicine
 ---
 
 ## Funding
-- National Natural Science Foundation of China (x2)
+- National Natural Science Foundation of China (x3)
 - Shanghai Rising-Star Foundation
 - Clinical Research Center, SJTU School of Medicine
 
