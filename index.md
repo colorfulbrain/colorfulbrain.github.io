@@ -33,6 +33,8 @@ Attending Neurologist, RuiJin Hospital, SJTU School of Medicine
 ---
 
 ## Clinical Trials
+- Ruijin Neurobank (RJNB) for observational dementia cohort
+  [ClinicalTrials.gov: NCT05623124](https://clinicaltrials.gov/ct2/show/NCT05623124)
 - Cognitive & Tai Chi training for MCI patients  
   [ClinicalTrials.gov: NCT03119051](https://clinicaltrials.gov/ct2/show/NCT03119051)
 
