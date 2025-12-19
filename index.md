@@ -25,6 +25,7 @@ Attending Neurologist, RuiJin Hospital, SJTU School of Medicine
 ---
 
 ## Selected Publications
+- Zhang, J., ... **Li, B**., (2025). *Identifying Distinct Spatiotemporal Patterns of Juxtacortical Microstructure in Alzheimer Disease Using Diffusion MRI-derived Free Water Fraction*. Radiology, 317(1)
 - Xu, X., ... **Li, B**., (2025). *Choroid plexus free-water correlates with glymphatic function in Alzheimer's disease*. Alzheimer's & Dementia, 21(5)
 - **He K**, *et al.*, *[...] more*
 
