@@ -8,15 +8,21 @@ nav_order: 2
 # Peer-Reviewed Publications
 
 ## 2025
-1. **Luan, Y.**, Wang, W., Huang, Q., Wang, Y., Nussbaumer, J., Wang, J., Steward, A., Roemer-Cassiano, S. N., Guan, Y., Ewers, M., Schöll, M., **Ni, R.**, **Li, B**., Franzmeier, N., & **Xie, F**. (2025). Synaptic loss pattern is constrained by brain connectome and modulated by phosphorylated tau in Alzheimer’s disease. Nature Communications, 16(1), 6356. https://doi.org/10.1038/s41467-025-61497-4
+1. Zhang, J., Yang, X., Wang, Y., Xu, X., Zheng, Y., Huang, Q., Wang, W., Xu, W., Guan, Y., Liu, J., Deng, Y., Xie, F., & **Li, B.** (2025). Identifying Distinct Spatiotemporal Patterns of Juxtacortical Microstructure in Alzheimer Disease Using Diffusion MRI-derived Free Water Fraction. Radiology, 317(1), e243423. https://doi.org/10.1148/radiol.243423
 
-2. **Chu, J.**, Yao, J., Li, Z., Li, J., Zhang, Y., Liu, C., He, H., **Li, B.**, & Wei, H. (2025). Brain tissue electrical conductivity as a promising biomarker for dementia assessment using MRI. *Alzheimer's & Dementia*, 21(6), e70270. [https://doi.org/10.1002/alz.70270](https://doi.org/10.1002/alz.70270)
+2. Lan, G., **Li, B.**, Wang, M., Barve, A., Colin, M., Buée, L., Zhang, L., Jiang, M., Yang, J., Li, A., He, Z., Zhou, X., Zhu, Y., Cai, Y., Sun, P., Liu, L., Li, J., Chen, L., Fang, L., … Guo, T. (2025). Plasma growth-associated protein 43 correlates with synaptic loss in Alzheimer’s disease. Cell Reports. Medicine, 6(12), 102508. https://doi.org/10.1016/j.xcrm.2025.102508
 
-3. Wang, J., Huang, Q., Chen, X., You, Z., He, K., Mao, X., Huang, Y., Franzmeier, N., Schöll, M., Guo, T., Zhao, J., Guan, Y., Ni, R., **Li, B.**, & Xie, F. (2025). Prediction of longitudinal synaptic loss in Alzheimer's disease using tau PET and plasma biomarkers. *Alzheimer's & Dementia*, 21(5), e70333. [https://doi.org/10.1002/alz.70333](https://doi.org/10.1002/alz.70333)
+3. Luan, Y., Huang, Q., Wang, J., Guan, Y., **Li, B.**, Franzmeier, N., Xie, F., & Ewers, M. (2025). Synaptic density and tau pathology in Alzheimer’s disease: A dual role in susceptibility and degeneration. Brain: A Journal of Neurology, awaf425. https://doi.org/10.1093/brain/awaf425
 
-4. Wang, Y., Wang, J., Chen, X., Lin, Z., You, Z., He, K., Guo, T., Zhao, J., Huang, Q., Ni, R., Guan, Y., **Li, B.**, & Xie, F. (2025). Tau pathology is associated with postsynaptic metabotropic glutamate receptor 5 (mGluR5) in early Alzheimer's disease in a sex-specific manner. *Alzheimer's & Dementia*, 21(2), e70004. [https://doi.org/10.1002/alz.70004](https://doi.org/10.1002/alz.70004)
+4. **Luan, Y.**, Wang, W., Huang, Q., Wang, Y., Nussbaumer, J., Wang, J., Steward, A., Roemer-Cassiano, S. N., Guan, Y., Ewers, M., Schöll, M., **Ni, R.**, **Li, B**., Franzmeier, N., & **Xie, F**. (2025). Synaptic loss pattern is constrained by brain connectome and modulated by phosphorylated tau in Alzheimer’s disease. Nature Communications, 16(1), 6356. https://doi.org/10.1038/s41467-025-61497-4
 
-5. Xu, X., Yang, X., Zhang, J., Wang, Y., Selim, M., Zheng, Y., Shen, R., Sun, L., Huang, Q., Wang, W., Xu, W., Guan, Y., Liu, J., Deng, Y., Xie, F., **Li, B.**, & Alzheimer's Disease Neuroimaging Initiative (ADNI). (2025). Choroid plexus free-water correlates with glymphatic function in Alzheimer's disease. *Alzheimer's & Dementia*, 21(5), e70239. [https://doi.org/10.1002/alz.70239](https://doi.org/10.1002/alz.70239)
+5. **Chu, J.**, Yao, J., Li, Z., Li, J., Zhang, Y., Liu, C., He, H., **Li, B.**, & Wei, H. (2025). Brain tissue electrical conductivity as a promising biomarker for dementia assessment using MRI. *Alzheimer's & Dementia*, 21(6), e70270. [https://doi.org/10.1002/alz.70270](https://doi.org/10.1002/alz.70270)
+
+6. Wang, J., Huang, Q., Chen, X., You, Z., He, K., Mao, X., Huang, Y., Franzmeier, N., Schöll, M., Guo, T., Zhao, J., Guan, Y., Ni, R., **Li, B.**, & Xie, F. (2025). Prediction of longitudinal synaptic loss in Alzheimer's disease using tau PET and plasma biomarkers. *Alzheimer's & Dementia*, 21(5), e70333. [https://doi.org/10.1002/alz.70333](https://doi.org/10.1002/alz.70333)
+
+7. Wang, Y., Wang, J., Chen, X., Lin, Z., You, Z., He, K., Guo, T., Zhao, J., Huang, Q., Ni, R., Guan, Y., **Li, B.**, & Xie, F. (2025). Tau pathology is associated with postsynaptic metabotropic glutamate receptor 5 (mGluR5) in early Alzheimer's disease in a sex-specific manner. *Alzheimer's & Dementia*, 21(2), e70004. [https://doi.org/10.1002/alz.70004](https://doi.org/10.1002/alz.70004)
+
+8. Xu, X., Yang, X., Zhang, J., Wang, Y., Selim, M., Zheng, Y., Shen, R., Sun, L., Huang, Q., Wang, W., Xu, W., Guan, Y., Liu, J., Deng, Y., Xie, F., **Li, B.**, & Alzheimer's Disease Neuroimaging Initiative (ADNI). (2025). Choroid plexus free-water correlates with glymphatic function in Alzheimer's disease. *Alzheimer's & Dementia*, 21(5), e70239. [https://doi.org/10.1002/alz.70239](https://doi.org/10.1002/alz.70239)
 
 ## 2024
 5. He, K., **Li, B.**, Huang, L., Zhao, J., Hua, F., Wang, T., Li, J., Wang, J., Huang, Q., Chen, K., Xu, S., Ren, S., Cai, H., Jiang, D., Hu, J., Han, X., Guan, Y., Chen, K., Guo, Q., & Xie, F. (2024). Positive rate and quantification of amyloid pathology with [18F]florbetapir in the urban Chinese population. *European Radiology*, 34(5), 3331-3341. [https://doi.org/10.1007/s00330-023-10366-z](https://doi.org/10.1007/s00330-023-10366-z)
